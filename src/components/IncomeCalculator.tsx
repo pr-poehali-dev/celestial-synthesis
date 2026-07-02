@@ -67,7 +67,7 @@ const IncomeCalculator = () => {
             <div>
               <div className="flex justify-between items-center mb-4 gap-3">
                 <label className="text-base sm:text-lg font-medium text-ink tracking-tight">
-                  Средний чек клиента
+                  Средние траты по карте
                 </label>
                 <span className="text-xl sm:text-2xl font-bold text-azure whitespace-nowrap">
                   {averageCheck[0].toLocaleString()}₽/мес

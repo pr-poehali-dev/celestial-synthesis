@@ -5,7 +5,7 @@ const HeroSection = () => {
     <section className="min-h-screen flex items-center justify-center bg-fog px-6">
       <div className="flex flex-col items-center text-center max-w-4xl mx-auto">
         <p className="text-lg sm:text-xl md:text-2xl font-semibold text-ink tracking-tight mb-2">
-          Партнёрская программа
+          Партнёрская программа Z-Bank
         </p>
 
         <HandWrittenTitle
@@ -13,14 +13,7 @@ const HeroSection = () => {
           subtitle={
             <>
               вместе с{" "}
-              <a
-                href="https://poehali.dev"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-[#0066cc] hover:underline"
-              >
-                poehali.dev
-              </a>
+              <span className="text-azure">Z-Bank</span>
             </>
           }
         />

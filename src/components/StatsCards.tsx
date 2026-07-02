@@ -1,15 +1,15 @@
 const StatsCards = () => {
   const stats = [
     {
-      number: "до 25%",
-      label: "комиссия с платежей",
+      number: "до 4000₽",
+      label: "за каждого клиента",
     },
     {
       number: "24 мес",
       label: "доход с клиента",
     },
     {
-      number: "5000₽",
+      number: "1000₽",
       label: "минимальная выплата",
     },
   ];
