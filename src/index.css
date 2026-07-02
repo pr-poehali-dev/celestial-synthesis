@@ -15,8 +15,8 @@
     --popover: 0 0% 100%;
     --popover-foreground: 240 6% 12%;
 
-    --primary: 211 100% 45%;
-    --primary-foreground: 0 0% 100%;
+    --primary: 45 100% 50%;
+    --primary-foreground: 240 6% 12%;
 
     --secondary: 240 20% 97%;
     --secondary-foreground: 240 6% 12%;
@@ -32,7 +32,7 @@
 
     --border: 240 11% 92%;
     --input: 240 11% 92%;
-    --ring: 211 100% 45%;
+    --ring: 45 100% 50%;
 
     --radius: 1.75rem;
 
@@ -40,7 +40,7 @@
     --graphite: 0 0% 44%;
     --fog: 240 20% 97%;
     --snow: 0 0% 100%;
-    --azure: 211 100% 45%;
+    --azure: 45 100% 50%;
     --silver-mist: 240 11% 92%;
 
     --sidebar-background: 0 0% 98%;
